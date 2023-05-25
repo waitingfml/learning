@@ -3,6 +3,8 @@ package com.huasisoft.array;
 public class ArrayDemo3 {
     public static void main(String[] args) {
         // String 数组 静态初始化
+        // 特点：初始化和赋值操作同时进行
+        // 使用场景：初始化和赋值操作同时进行
         System.out.println("String 数组 静态初始化");
         String[] names = {"James", "Larry", "Tom", "Lacy" };
         System.out.println(names.length);
@@ -11,6 +13,8 @@ public class ArrayDemo3 {
         System.out.println(names[1]);
 
         // String 数组 动态初始化 默认值是null
+        // 特点：初始化和赋值操作分开进行
+        // 使用场景：
         System.out.println("String 数组 动态初始化");
         String[] names2 = new String[100];
         System.out.println(names2.length);
