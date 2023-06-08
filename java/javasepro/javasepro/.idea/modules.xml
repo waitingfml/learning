@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app-api/app-api.iml" filepath="$PROJECT_DIR$/app-api/app-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/app-array/app-array.iml" filepath="$PROJECT_DIR$/app-array/app-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-atm/app-atm.iml" filepath="$PROJECT_DIR$/app-atm/app-atm.iml" />
       <module fileurl="file://$PROJECT_DIR$/app-example1/app-example1.iml" filepath="$PROJECT_DIR$/app-example1/app-example1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app-oop/app-oop.iml" filepath="$PROJECT_DIR$/app-oop/app-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/app-process-control/app-process-control.iml" filepath="$PROJECT_DIR$/app-process-control/app-process-control.iml" />
